@@ -1,0 +1,7 @@
+
+  //Write Your One Line Code Here
+  int a, b, c;
+  //Do Not Edit Below
+  a = 10, b = 20, c = 70;
+  cout << "Sum Of All Numbers Is: "<< a + b + c;
+                        
